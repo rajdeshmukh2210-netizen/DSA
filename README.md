@@ -35,32 +35,6 @@ This repository contains my **Data Structures and Algorithms (DSA)** practical p
   * View Top Book (Peek)
   * Display All Books
 * Shows how stack operations can be applied in a real-world scenario.
-  
-  4. Binary Tree Implementation
-Implements a Binary Tree using dynamically allocated nodes.
-Supports:
-Create Binary Tree
-Insert Node
-Inorder Traversal
-Preorder Traversal
-Postorder Traversal
-Uses recursive functions for tree insertion and traversal.
-Demonstrates the basic structure and traversal techniques of a binary tree.
-Provides a menu-driven interface for performing different tree operations.
-
- 5. Binary Search Tree – Insert and Delete
-Implements a Binary Search Tree (BST) using dynamically created nodes.
-Supports:
-Insert Node
-Delete Node
-Inorder Traversal
-Preorder Traversal
-Postorder Traversal
-Maintains the BST property by inserting smaller values into the left subtree and larger/equal values into the right subtree.
-Implements node deletion, including deletion of nodes having one or two children.
-Uses the minimum value node from the right subtree when deleting a node with two children.
-Provides a menu-driven program for performing BST operations.
-
 ## Technologies Used
 
 * **Language:** C++
